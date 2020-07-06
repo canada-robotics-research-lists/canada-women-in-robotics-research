@@ -1,10 +1,10 @@
-# [women-in-robotics-research.github.io](https://us-women-in-robotics-research.github.io/)
+# [canada-women-in-robotics-research.github.io](https://canada-robotics-research-lists.github.io/canada-women-in-robotics-research)
 
-This repo hosts the website listing current women in the United States doing robotics research. It is currently maintained by Ph.D. students from [Maja Mataric's](http://www-robotics.usc.edu/~maja/) [Interaction Lab](http://robotics.usc.edu/interaction/).
+This repo hosts the website listing current women in Canada doing robotics research. The code used to make this site came from the [US Women in Robotics list](https://github.com/us-women-in-robotics-research/us-women-in-robotics-research.github.io/). This site is currently maintained by a Ph.D. student from [Krzysztof (Chris) Skonieczny's Space Robotics Lab](https://users.encs.concordia.ca/~kskoniec/).
 
 ## Add Someone / Report Correction
 
-You can request to [add someone here](https://docs.google.com/forms/d/1N-CY4AZK38SU2r86aazEJNDjdChOfCAY4gvCG1c3y1s/). Please [report corrections or updates here](https://docs.google.com/forms/d/19kVUgy9F7bFfqehxZw45ENItS67Sn_SYXWOASykAFO0).
+You can request to [add someone here](https://forms.gle/jv4PP1xtqMPwKhGR8). Please [report corrections or updates here](https://forms.gle/CiyHJzFNPYbr9SgH7).
 
 ## Want to make your own similar site?
 
