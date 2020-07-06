@@ -1,4 +1,4 @@
-# [canada-women-in-robotics-research.github.io](https://canada-robotics-research-lists.github.io/canada-women-in-robotics-research)
+# [canada-robotics-research-lists.github.io/canada-women-in-robotics-research](https://canada-robotics-research-lists.github.io/canada-women-in-robotics-research)
 
 This repo hosts the website listing current women in Canada doing robotics research. The code used to make this site came from the [US Women in Robotics list](https://github.com/us-women-in-robotics-research/us-women-in-robotics-research.github.io/). This site is currently maintained by a Ph.D. student from [Krzysztof (Chris) Skonieczny's Space Robotics Lab](https://users.encs.concordia.ca/~kskoniec/).
 
