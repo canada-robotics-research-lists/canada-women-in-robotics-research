@@ -2,7 +2,7 @@
 $(document).ready(function() {
   $.ajax({
       type: "GET",
-      url: "https://us-women-in-robotics-research.github.io/list.csv",
+      url: "canada-robotics-research-lists.github.io/canada-women-in-robotics-research/list.csv",
       dataType: "text",
       success: function(data) {processData(data);}
    });
